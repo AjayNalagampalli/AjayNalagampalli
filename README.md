@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Business Analyst roles based in india**
 
-- 🤝 I’m looking for help with **AI based Power BI dashboards**
+- 🤝 I’m looking for help with **AI based Power BI Projects**
 
-- 👨‍💻 All of my projects are available at [my github profile](my github profile)
+- 👨‍💻 All of my projects are available at [my github profile]
 
 - 📫 How to reach me **contact.ajay.n@gmail.com**
 
