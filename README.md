@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Nalagampalli</h1>
-<h3 align="center">Analytical and results-driven professional with international work experience and a Master’s in Engineering Management from Nottingham Trent University, UK. Experienced as a Business Analyst from UK, delivering data-driven solutions and improving processes in a fast-paced environment. I am actively looking for job opportunities and eager to apply my expertise into the business analyst roles in India. I am adaptable, quick to learn, and ready to make an immediate contribution.</h3>
+<h3 align="left">Analytical and results-driven professional with international work experience and a Master’s in Engineering Management from Nottingham Trent University, UK. Experienced as a Business Analyst from UK, delivering data-driven solutions and improving processes in a fast-paced environment. I am actively looking for job opportunities and eager to apply my expertise into the business analyst roles in India. I am adaptable, quick to learn, and ready to make an immediate contribution.</h3>
 
 - 🔭 I’m currently working on **Power BI Projects**
 
