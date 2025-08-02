@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Nalagampalli</h1>
-<h3 align="left">Excited to share my GitHub portfolio where I've been showcasing my hands-on projects in Power BI, DAX, SQL, and business analysis!
+<h3 align="left">Excited to share my GitHub portfolio where I've been showcasing my hands-on projects in Power BI, DAX, SQL, and business analysis.
 From building interactive dashboards to analyzing sales, energy, and operational data, I aim to turn data into meaningful insights that drive business impact.</h3>
 
 - 🔭 I’m currently working on **Power BI Projects**
